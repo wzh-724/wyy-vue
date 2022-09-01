@@ -1,0 +1,91 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3492691 */
+  src: url('iconfont.woff2?t=1659605984198') format('woff2'),
+       url('iconfont.ttf?t=1659605984198') format('truetype'),
+       url('iconfont.svg?t=1659605984198#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tianjia:before {
+  content: "\e622";
+}
+
+.icon-bofang3:before {
+  content: "\e70a";
+}
+
+.icon-bofang4:before {
+  content: "\e65a";
+}
+
+.icon-xiayibu:before {
+  content: "\e6ba";
+}
+
+.icon-fenxiang1:before {
+  content: "\e620";
+}
+
+.icon-jianyi:before {
+  content: "\e6d3";
+}
+
+.icon-xiazai:before {
+  content: "\e856";
+}
+
+.icon-show_duoxuan:before {
+  content: "\e600";
+}
+
+.icon-zuojiantou:before {
+  content: "\e625";
+}
+
+.icon-bofang2:before {
+  content: "\e616";
+}
+
+.icon-24gl-play:before {
+  content: "\ea6d";
+}
+
+.icon-liebiao:before {
+  content: "\e649";
+}
+
+.icon-bofangmoban:before {
+  content: "\e65e";
+}
+
+.icon-sousuo:before {
+  content: "\e86e";
+}
+
+.icon-bofang:before {
+  content: "\e8a3";
+}
+
+.icon-tuijian:before {
+  content: "\e60a";
+}
+
+.icon-gedan:before {
+  content: "\e66a";
+}
+
+.icon-bofang1:before {
+  content: "\e606";
+}
+
+.icon-paihangbang:before {
+  content: "\f202";
+}
+
